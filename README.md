@@ -3,6 +3,15 @@
 > *Building scalable web apps, one commit at a time* 🚀
 
 ---
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bagavathi-singh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bagavathisingh-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagavathisingh5@gmail.com)
+
+---
 
 ## 🙋‍♂️ About Me
 
@@ -42,30 +51,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🧠 LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Bagavathisingh?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
-</p>
-
-> 💪 50+ problems solved | Focused on DSA & problem solving
-
----
-
 ## 🏗️ System Design
 
 I actively practice and diagram system designs — from load balancers to distributed caches.
 
 > *"Understanding how systems scale is just as important as writing the code."*
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-url)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bagavathisingh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
